@@ -1,6 +1,4 @@
-# Goofy Goobers Application
-
-This repo was configured by Zen for development first.
+# Read For Me Application
 
 Deployment instructions and necessary infrastructure will be resolved at a later date.
 
