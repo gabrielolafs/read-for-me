@@ -1,6 +1,7 @@
 # Read For Me Application
 
-Deployment instructions and necessary infrastructure will be resolved at a later date.
+An application made to host txt files and read them out loud. Accessible as just a txt reader with syncing across 
+devices logged into the same user 
 
 ## Get Started Developing
 
